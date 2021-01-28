@@ -27,3 +27,6 @@ target
 
 # exclude intellij
 .idea
+
+# exclude those stupid .DS_Store files on mac
+.DS_Store
